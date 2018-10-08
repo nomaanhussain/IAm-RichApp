@@ -1,6 +1,6 @@
 # IAm-RichApp
 
-### Prerequisites
+### About
 
 Starting iOS Development
 
